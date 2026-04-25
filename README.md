@@ -20,9 +20,9 @@ Fuzzy session and window switcher for tmux using fzf.
 
 Add to `~/.tmux.conf`:
 
-\```
+```
 set -g @plugin 'atmaybury/tmux-switcher'
-\```
+```
 
 Press `prefix + I` to install.
 
@@ -30,9 +30,9 @@ Press `prefix + I` to install.
 
 Clone the repo and source in `~/.tmux.conf`:
 
-\```
+```
 run-shell ~/path/to/tmux-session-switcher/plugin.tmux
-\```
+```
 
 ## Usage
 
